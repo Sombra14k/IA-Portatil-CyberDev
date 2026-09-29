@@ -1,0 +1,12 @@
+# Arquivos executáveis pesados do Ollama
+ollama
+ollama.exe
+
+# Pasta de modelos da IA (~2 GB)
+modelos/
+modelos/*
+
+# Arquivos temporários e logs do Windows/Linux
+*.log
+*.tmp
+.DS_Store

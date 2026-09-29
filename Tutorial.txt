@@ -1,0 +1,11 @@
+Tutorial
+
+Como iniciar:
+E:\IA_Portatil\iniciar_ia.bat
+
+E:\IA_Portatil\ollama.exe run qwen2.5-coder:3b
+
+
+Como iniciar o modo avançado:
+
+.\ollama.exe run cyberdev-3b
